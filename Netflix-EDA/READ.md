@@ -28,19 +28,20 @@ Netflix Movies and TV Shows dataset sourced from Kaggle.
 - Movie duration distribution
 
 ## Key Insights
-#1]Netflix has a significantly higher number of movies than TV shows, 
-#indicating a stronger focus on shorter, standalone content.
+1]Netflix has a significantly higher number of movies than TV shows, 
+indicating a stronger focus on shorter, standalone content.
 
-#2]Content addition increased rapidly after 2016, reflecting Netflix’s aggressive global expansion strategy.
+2]Content addition increased rapidly after 2016, reflecting Netflix’s aggressive global expansion strategy.
 
-#3]The United States and India are the top content-producing countries, 
-#showing Netflix’s focus on large and diverse markets.
+3]The United States and India are the top content-producing countries, 
+showing Netflix’s focus on large and diverse markets.
 
-#4]Most content is rated TV-MA, suggesting Netflix primarily targets mature audiences.
+4]Most content is rated TV-MA, suggesting Netflix primarily targets mature audiences.
 
-#5]Dramas and International Movies dominate the platform, highlighting global storytelling preferences.
+5]Dramas and International Movies dominate the platform, highlighting global storytelling preferences.
 
-#6]Most Netflix movies fall between 90–120 minutes, aligning with standard industry movie lengths.
+6]Most Netflix movies fall between 90–120 minutes, aligning with standard industry movie lengths.
 
 ## Conclusion
 Netflix’s content strategy emphasizes movies, mature-rated content, and global expansion, particularly after 2016.
+
